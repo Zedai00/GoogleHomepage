@@ -34,12 +34,12 @@
      display: inline-block;
      border: none;
      border-radius: 7%;
-     background-color: #1a73e8;
+     background-color: #4285f4;
      text-align: center;
      text-decoration: none;
      font-size: 16px;
-     padding: 10px 1px 0 1px;
-     color: white;
+     padding: 10px 2px 0px 0px;
+     color: #fff;
      width: 60px;
      height: 30px;
  }
