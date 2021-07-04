@@ -1,10 +1,18 @@
  img {
      display: block;
-     margin: auto;
-     max-width: 70%;
+     margin: auto auto auto 28%;
+     max-width: 100%;
      padding-top: 10%;
  }
 
+ @media (min-width: 700px) {
+     img{
+         display: block;
+         margin: auto auto auto 40%;
+         max-width: 100%;
+         padding-top: 10%;
+        }
+ }
  ul {
      list-style-type: none;
      font-family: Arial, Helvetica, sans-serif;
@@ -67,7 +75,7 @@
  .Gbutton {
      display: inline-block;
      text-align: center;
-     margin: 20px auto auto 28%;
+     margin: 20px auto auto 30%;
      background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
      background-color: #f8f9fa;
      color: #5F6368;
@@ -76,7 +84,7 @@
  }
  @media (min-width: 700px) {
      .Gbutton{
-         margin: 20px auto auto 38%;
+         margin: 20px auto auto 40%;
      }
  }
  .Gbutton:hover {
