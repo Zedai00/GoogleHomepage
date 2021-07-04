@@ -58,7 +58,7 @@
      border: 1px solid #dfe1e5;
      border-radius: 30px;
      outline: none;
-     background: url(search_black_24dp.svg) 10px 10px/25px no-repeat, url(mic_black_24dp.svg) 99% 10px /25px no-repeat;
+     background: url(Icons/google-search.png) 10px 10px/25px no-repeat, url(Icons/google-microphone.png) 99% 10px /25px no-repeat;
      padding-left: 40px;
  }
 
